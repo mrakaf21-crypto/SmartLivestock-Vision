@@ -1,0 +1,11 @@
+{
+    "mm_per_pixel": 0.270,
+    "toy_length_mm": 31.0,
+    "toy_height_mm": 19.0,
+    "real_length_mm": 1500.0,
+    "real_height_mm": 1200.0,
+    "scale_length": 48.3871,
+    "scale_height": 63.1579,
+    "scale_weight": 173484.3237,
+    "camera_index": 0
+}
